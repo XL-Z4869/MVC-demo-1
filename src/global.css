@@ -1,0 +1,10 @@
+.global {
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 1px solid blue; */
+}
+
+.global section {
+    width: 50vw;
+    height: 50vh;
+}
